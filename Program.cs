@@ -40,10 +40,10 @@ class Program
                 Console.WriteLine("Saliendo de la Calculadora...");
                 break;
             }
-            //Parte de Omar 
+            //Parte de Omarsito
 
 
-            //entre este espacio ponelo despues borras estas guias
+            //entre este espacio ponelo despues borras estas guiass
         }
     }
     //PARTE DE DANY
