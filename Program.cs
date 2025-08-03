@@ -40,11 +40,33 @@ class Program
                 Console.WriteLine("Saliendo de la Calculadora...");
                 break;
             }
-            //Parte de Omar Toledo teni
-
-
-
-            //entre este espacio ponelo despues borras estas guiass
+            switch (opcion)
+            {
+                case 1:
+                    resultado = Sumar(num1, num2);
+                    Console.WriteLine($"Resultado: {resultado}");
+                    break;
+                case 2:
+                    resultado = Restar(num1, num2);
+                    Console.WriteLine($"Resultado: {resultado}");
+                    break;
+                case 3:
+                    resultado = Multiplicar(num1, num2);
+                    Console.WriteLine($"Resultado: {resultado}");
+                    break;
+                case 4:
+                    if (num2 == 0)
+                        Console.WriteLine("Error: División por cero.");
+                    else
+                    {
+                        resultado = Dividir(num1, num2);
+                        Console.WriteLine($"Resultado: {resultado}");
+                    }
+                    break;
+                default:
+                    Console.WriteLine("Opción no válida. Intente de nuevo.");
+                    break;
+            }
         }
     }
     //PARTE DE DANY Toledo 
