@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omarc\\OneDrive\\Escritorio\\Tarea\\Calculadora\\Proyecto1.csproj",
+      "projectUniqueName": "C:\\Users\\omarc\\OneDrive\\Escritorio\\calculadora2\\Calculadora\\Proyecto1.csproj",
       "projectName": "Proyecto1",
-      "projectPath": "C:\\Users\\omarc\\OneDrive\\Escritorio\\Tarea\\Calculadora\\Proyecto1.csproj",
+      "projectPath": "C:\\Users\\omarc\\OneDrive\\Escritorio\\calculadora2\\Calculadora\\Proyecto1.csproj",
       "packagesPath": "C:\\Users\\omarc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omarc\\OneDrive\\Escritorio\\Tarea\\Calculadora\\obj\\",
+      "outputPath": "C:\\Users\\omarc\\OneDrive\\Escritorio\\calculadora2\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
