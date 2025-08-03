@@ -40,7 +40,7 @@ class Program
                 Console.WriteLine("Saliendo de la Calculadora...");
                 break;
             }
-            //Parte de Omar toledos
+            //Parte de Omar toledossss
 
 
             //entre este espacio ponelo despues borras estas guiass
