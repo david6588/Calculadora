@@ -69,8 +69,8 @@ class Program
             }
         }
     }
-    //PARTE DE DANY Toledo 
-   
-    
-    //Ponelo aca adentro y despues borras estas barras
+     static double Sumar(double a, double b) => a + b;
+    static double Restar(double a, double b) => a - b;
+    static double Multiplicar(double a, double b) => a * b;
+    static double Dividir(double a, double b) => a / b;
 }
